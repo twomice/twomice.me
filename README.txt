@@ -15,6 +15,7 @@ CONTRIBUTED CODE
 
 GitHub: <a href="https://github.com/twomice">https://github.com/twomice</a>
 Drupal.org: <a href="https://www.drupal.org/u/twomice">https://www.drupal.org/u/twomice</a>
+All code and content for this site (twomice.me): <a href="https://github.com/twomice/twomice.me">https://github.com/twomice/twomice.me</a>
 
 
 ===================
