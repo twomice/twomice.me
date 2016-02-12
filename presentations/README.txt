@@ -8,3 +8,9 @@ Here's a talk I've given at <a href="http://2015.midcamp.org/">MidCamp 2015</a> 
 - <a href="./NTDrupalMeetup-Virtues_in_debugging-Allen_Shaw-slides.pdf" download>"Story time" stories</a>
 
 
+===================
+DALLAS CIVICRM MEETUP (FEBRUARY, 2016)
+
+Here are links to resources we discussed at the Dallas CiviCRM meetup (<a href="http://www.meetup.com/DFW-CiviCRM/events/223153498/">Feb. 11, 2016</a>).
+- <a href="./DallasCiviCRMMeetup_20160211_links">Links</a>
+
