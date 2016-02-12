@@ -6,8 +6,16 @@ A very little potentially useful information about Allen Shaw, known on Drupal.o
 ===================
 CURRENT POSITION 
 
-Senior Developer
-Emphanos, LLC (<a href="http://emphanos.com">http://emphanos.com</a>)
+Makes things happen at Joinery (<a href="http://JoineryHQ.com">http://JoineryHQ.com</a>)
+
+
+===================
+PROFESSIONAL INTERESTS:
+
+CiviCRM: <a href="http://civicrm.org">http://civicrm.org</a>
+Drupal: <a href="http://drupal.org">http://drupal.org</a>
+SuiteCRM: <a href="https://suitecrm.com">https://suitecrm.com</a>
+Data migration, integration, and reporting.
 
 
 ===================
