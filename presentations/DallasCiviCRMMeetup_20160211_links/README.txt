@@ -15,7 +15,7 @@ A collection of 20+ tools for developing and testing CiviCRM, notably including 
 --------------------------
 cividev
 --------------------------
-Issue one command to create a Virtual Machine that comes pre-configured with all the tools you'll need for CiviCRM development. Upon the first VM startup, installs a Drupal 7 site with CiviCRM, and civicrm-buildkit (see above) so you can easily create any number of sites with CiviCRM on any supported CMS. Shout-out to @cividesk for contributing this awesome tool!
+Issue one command to create a Virtual Machine that comes pre-configured with all the tools you'll need for CiviCRM development. Upon the first VM startup, installs a Drupal 7 site with CiviCRM, and civicrm-buildkit (see above) so you can easily create any number of sites with CiviCRM on any supported CMS. Shout-out to <a href="http://twitter.com/cividesk">@cividesk</a> for contributing this awesome tool!
 <a href="https://github.com/civicrm/civicrm-buildkit-vagrant">https://github.com/civicrm/civicrm-buildkit-vagrant</a>
 
 
@@ -53,7 +53,7 @@ CiviCRM API v4 extension code
 --------------------------
 A short history of Drupal 8 integration for CiviCRM
 --------------------------
-A collection of blog posts showing some of the hard work of @petednz and Torrance Hodgson in laying the ground-work for CiviCRM on Drupal 8. Thanks, guys!
+A collection of blog posts showing some of the hard work of <a href="http://twitter.com/petednz">@petednz</a> and Torrance Hodgson in laying the ground-work for CiviCRM on Drupal 8. Thanks, guys!
 <a href="https://civicrm.org/blog/tags/drupal-8">https://civicrm.org/blog/tags/drupal-8</a>)
 
 
