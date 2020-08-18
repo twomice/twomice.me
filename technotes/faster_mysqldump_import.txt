@@ -1,0 +1,34 @@
+================
+faster_mysqldump_import.txt
+
+By default, `mysqldump` makes an sql file that covers most of the bases for optimizing the import speed. But you can do better, especially for very large files:
+
+======
+1. Disable autocommit
+Prepend this to the start of the mysqldump file:
+`set AUTOCOMMIT = 0;`
+
+And append this:
+`COMMIT;`
+
+======
+2. For InnoDB, temporarily disable the Double Write Buffer (<a href="https://dba.stackexchange.com/a/151064">Reference</a>).
+
+Since the name "Double Write Buffer" implies two writes, disabling this will cause InnoDB to only write data and indexes straight to the table files and bypass writing to the Double Write Buffer within ibdata1. 
+
+STEP #1
+Login to the Target Server and run
+`SET GLOBAL innodb_fast_shutdown = 0;`
+
+STEP #2
+Restart mysqld by setting to innodb_doublewrite to OFF:
+`sudo service mysql restart --innodb-doublewrite=OFF --innodb-fast-shutdown=0`
+
+STEP #3
+Load the mysqldump into the Target Server as usual:
+`pv mysqldumpfile.sql | mysql -u whatever -p -D database`
+
+STEP #4
+Restart mysqld normally (Double Write buffer will be enabled again):
+`sudo service mysql restart`
+
