@@ -3,12 +3,12 @@
 A very little potentially useful information about Allen Shaw, known on Drupal.org and other forums as TwoMice.
 
 
-## CURRENT POSITION 
+## Current Position 
 
 Makes things happen at [Joinery](http://JoineryHQ.com)
 
 
-## PROFESSIONAL INTERESTS
+## Professional Interests
 
 - [CiviCRM](http://civicrm.org)
 - [Drupal](http://drupal.org)
@@ -16,18 +16,18 @@ Makes things happen at [Joinery](http://JoineryHQ.com)
 - Data migration, integration, and reporting.
 
 
-## CONTRIBUTED CODE
+## Contributed Code
 
 - [GitHub](https://github.com/twomice)
 - [Drupal.org](https://www.drupal.org/u/twomice)
 - All code and content for this site [twomice.me](https://github.com/twomice/twomice.me)
 
 
-## PRESENTATIONS
+## Presentations
 
 <http://twomice.me/presentations>
 
 
-## FURTHER READING
+## Further Reading
 
 <http://www.linkedin.com/pub/allen-shaw/38/384/b67/>
